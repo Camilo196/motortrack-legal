@@ -12,11 +12,11 @@ Si deseas eliminar tu cuenta y los datos asociados, tienes dos caminos:
 
 Tambien puedes escribir a:
 
-`<SUPPORT_EMAIL>`
+`<camiloher1961@gmail.com>`
 
 o publicar esta informacion en una pagina externa y colocar aqui el enlace final:
 
-`<ACCOUNT_DELETION_URL>`
+`<camiloher1961@gmail.com>`
 
 ## Que se elimina
 
