@@ -40,11 +40,11 @@ El usuario puede iniciar una solicitud de eliminacion de cuenta desde la seccion
 
 Tambien puede solicitar eliminacion escribiendo a:
 
-`<SUPPORT_EMAIL>`
+`<camiloher1961@gmail.com>`
 
 Si vas a publicar una pagina externa de eliminacion, agrégala aqui:
 
-`<ACCOUNT_DELETION_URL>`
+`<camiloher1961@gmail.com>`
 
 ## 6. Seguridad
 
@@ -54,4 +54,5 @@ Aplicamos controles de acceso por usuario en la base de datos para evitar que un
 
 Para dudas sobre privacidad o datos personales:
 
-`<SUPPORT_EMAIL>`
+`<camiloher1961@gmail.com>`
+
