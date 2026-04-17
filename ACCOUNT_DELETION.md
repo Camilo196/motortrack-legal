@@ -1,29 +1,37 @@
 # Eliminacion de Cuenta - MotorTrack
 
-Si deseas eliminar tu cuenta y los datos asociados, tienes dos caminos:
+Ultima actualizacion: 2026-04-17
 
-## Desde la app
+Si deseas eliminar tu cuenta y los datos asociados en MotorTrack, puedes hacerlo por cualquiera de estos medios.
+
+## 1. Desde la app
 
 1. Inicia sesion en MotorTrack.
 2. Entra a `Cuenta y Privacidad`.
 3. Usa la opcion `Solicitar eliminacion`.
 
-## Fuera de la app
+## 2. Fuera de la app
 
-Tambien puedes escribir a:
+Tambien puedes solicitar la eliminacion escribiendo a:
 
-`<camiloher1961@gmail.com>`
+`camiloher1961@gmail.com`
 
-o publicar esta informacion en una pagina externa y colocar aqui el enlace final:
+## 3. Que datos se eliminan
 
-`<camiloher1961@gmail.com>`
-
-## Que se elimina
-
-La solicitud debe contemplar, como minimo:
+La solicitud de eliminacion contempla, como minimo:
 
 - cuenta del usuario
 - vehiculos registrados
 - gastos
 - recordatorios
 - solicitudes internas asociadas a la cuenta
+
+## 4. Tiempo de atencion
+
+Las solicitudes se revisan y procesan manualmente en un tiempo razonable despues de su recepcion.
+
+## 5. Politica de privacidad
+
+Puedes consultar la politica de privacidad aqui:
+
+`https://raw.githubusercontent.com/Camilo196/motortrack-legal/main/PRIVACY_POLICY.md`
